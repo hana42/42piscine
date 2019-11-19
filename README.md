@@ -3,7 +3,7 @@
 
 
 ####   Dicas:
-Use bastante a internet (Sério, __STFE__)/man/google
+Use bastante a internet/man/google
 
 Examine bem os exemplos. Eles podem muito bem pedir detalhes que não são explicitamente mencionados no exercício.
 
