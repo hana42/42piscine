@@ -4,7 +4,7 @@
 #### Objetivo:
 
 
-* Escreva uma linha de comando que procure na pasta atual e em todas as subpastas todos os arquivos cujos nomes terminam com ".sh" (sem as aspas) e que só exiba os seus nomes, sem o .sh.
+Escreva uma linha de comando que procure na pasta atual e em todas as subpastas todos os arquivos cujos nomes terminam com ".sh" (sem as aspas) e que só exiba os seus nomes, sem o .sh.
 * Exemplo de saída:
 ```
 $>./find_sh.sh | cat -e
