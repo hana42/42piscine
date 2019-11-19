@@ -18,7 +18,7 @@ por vírgulas sem espaços.
 	daemon,bin$>
 	```
 
-> Busque os seguintes manuais: `man groups` `man tr` e `pipe` antes de continuar.
+> Busque o seguinte: `man groups` `man tr` `pipe` e `variáveis de ambiente` antes de continuar.
 
 ------------------------------------------
 #### Se nós lermos o manual `man groups` veremos que:
